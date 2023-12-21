@@ -1,2 +1,2 @@
 # D195-Capstone
-Capstone
+Code and write-up is in Explanatory Data Analysis file.
